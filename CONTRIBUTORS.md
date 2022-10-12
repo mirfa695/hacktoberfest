@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [MIRFA](https://github.com/mirfa695?tab=stars)
+- Place:Kerala, India
+- Bio: BSC computer science student
+- Github: [mirfa695](https://github.com/mirfa695?tab=stars)
